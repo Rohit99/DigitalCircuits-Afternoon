@@ -2,4 +2,15 @@ Motors and lights
 ====================
 This is code for lights and motors.
 
-:shipit
+:shipit:
+
+
+```arduino
+void setup()
+{
+}
+voidloop()
+{
+}
+```
+
